@@ -1,0 +1,14 @@
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spellcure"
+version = "1.0.0"
+description = "SpellCure — correction for highly scrambled text (Saheban Khan)"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{ name = "Saheban Khan", email = "sahebankhan21@gmail.com" }]
+license = { text = "MIT" }
+dependencies = ["nltk", "textdistance"]
