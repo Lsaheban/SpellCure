@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # spellcure
 
 SpellCure — a correction engine for highly scrambled text (by Saheban Khan).  
@@ -34,4 +33,5 @@ Install
 # SpellCure
 its spelling correction engine works only with mathematical algorithm to identify the correct word or possible words for  highly scrambled text 
 >>>>>>> fd15c3e21c8c55f84a6258331221fb9bdf762083
+
 
