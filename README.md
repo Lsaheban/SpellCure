@@ -1,7 +1,7 @@
 # spellcure
 
 SpellCure — a correction engine for highly scrambled text (by Saheban Khan).  
-It matches distorted or jumbled words to their most likely real forms using ratio-based scoring and NLTK word datasets it also contains a small word list for fast response and a user can also add their words in the list.
+It matches distorted or jumbled words to their most likely real forms using ratio-based scoring and NLTK word datasets and it also contains a small word list for fast response and a user can also add their words in the list.
 
 ---
 
@@ -33,6 +33,7 @@ Install
 # SpellCure
 its spelling correction engine works only with mathematical algorithm to identify the correct word or possible words for  highly scrambled text 
 >>>>>>> fd15c3e21c8c55f84a6258331221fb9bdf762083
+
 
 
 
