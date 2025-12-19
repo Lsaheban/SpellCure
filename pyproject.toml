@@ -12,3 +12,7 @@ requires-python = ">=3.8"
 authors = [{ name = "Saheban Khan", email = "sahebankhan21@gmail.com" }]
 license = { text = "MIT" }
 dependencies = ["nltk", "textdistance"]
+
+[project.urls]
+Repository = "https://github.com/Lsaheban/SpellCure"
+PyPI = "https://pypi.org/project/spellcure/"
