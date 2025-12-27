@@ -8,7 +8,7 @@ It matches distorted or jumbled words to their most likely real forms using rati
 SpellCure compares each input token to words in its vocabulary using a availibilty of character / position / lenth based ratio algorithm.
 The algorithm calculates similarity between character positions and word length with availibility of letters in a given word then converts it into mathematical parameteres to compute  and recursively refines results until a confident match is found.
 
-## EXAMPLE
+## 💻EXAMPLE
 
 ```python
 from spellcure import SpellCure
@@ -29,3 +29,4 @@ print(model.correct("aplpe"))
 ```bash
 pip install spellcure
 ```
+
