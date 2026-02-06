@@ -17,7 +17,7 @@ a = [
     "always", "amazing", "ambition", "amount", "amuse", "analysis", "analyze", "ancient", "anger", "angle",
     "angry", "animal", "announce", "annual", "another", "answer", "anticipate", "anxiety", "anxious", "any",
     "anybody", "anymore", "anyone", "anything", "anyway", "anywhere", "apart", "apartment", "apologize", "apology",
-    "apparent", "appeal", "appear", "appearance", "appetite", "applaud", "apple", "application", "apply", "appoint",
+    "apparent", "appeal", "appear", "appearance", "appetite", "applaud", "apple","apples", "application", "apply", "appoint",
     "appointment", "appreciate", "approach", "appropriate", "approval", "approve", "approximately", "area", "argue", "argument",
     "arise", "arm", "army", "around", "arrange", "arrangement", "arrest", "arrival", "arrive", "art",
     "article", "artist", "artistic", "as", "ash", "aside", "ask", "asleep", "aspect", "assault",
@@ -55,7 +55,7 @@ a = [
     "avoidance", "awardwise", "awarenesswise", "awe", "awesomewise", "awfulness", "awkwardness", "axiom", "axiswise", "azimuth"
 ]
 b = [
-    "baby", "back", "bad","rat", "bag", "bake", "balance", "ball", "banana", "band", "bank",
+    "baby", "back", "bad","rat", "bag", "bake", "balance", "ball","baloons", "banana", "band", "bank",
     "bar", "bare", "bark", "barn", "base", "basic", "basket", "bat", "bath", "battle",
     "beach", "beam", "bean", "bear", "beat", "beauty", "bed", "bee", "beef", "beer",
     "beg", "begin", "bell", "belly", "belt", "bench", "bend", "berry", "best", "bet",
@@ -1218,4 +1218,4 @@ live = [
 
 
 mylib=list(set(a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t+u+v+w+x+y+z+ever+food+term+live+common))
-print(len(mylib))
+# print(len(mylib))
