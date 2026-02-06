@@ -55,13 +55,13 @@ a = [
     "avoidance", "awardwise", "awarenesswise", "awe", "awesomewise", "awfulness", "awkwardness", "axiom", "axiswise", "azimuth"
 ]
 b = [
-    "baby", "back", "bad", "bag", "bake", "balance", "ball", "banana", "band", "bank",
+    "baby", "back", "bad","rat", "bag", "bake", "balance", "ball", "banana", "band", "bank",
     "bar", "bare", "bark", "barn", "base", "basic", "basket", "bat", "bath", "battle",
     "beach", "beam", "bean", "bear", "beat", "beauty", "bed", "bee", "beef", "beer",
     "beg", "begin", "bell", "belly", "belt", "bench", "bend", "berry", "best", "bet",
     "better", "between", "beyond", "bicycle", "bid", "big", "bike", "bill", "bind", "bird",
     "birth", "biscuit", "bit", "bite", "bitter", "black", "blade", "blame", "blank", "blast",
-    "bleed", "blend", "bless", "blind", "blink", "block", "blood", "bloom", "blow", "blue",
+    "bleed", "blend","blind", "bless", "blind", "blink", "block", "blood", "bloom", "blow", "blue",
     "board", "boat", "body", "boil", "bold", "bolt", "bomb", "bone", "book", "boom",
     "boot", "border", "bore", "born", "borrow", "boss", "both", "bother", "bottle", "bottom",
     "bounce", "bound", "bow", "bowl", "box", "boy", "brain", "brake", "branch", "brand",

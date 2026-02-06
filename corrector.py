@@ -97,7 +97,7 @@ class corrector:
     # ========================
     def correct(self, text):
         """
-        Correct a single word or full sentence.
+        Correct  a s ingle word or full sentence.
         Returns the best guesses for each token.
         """
         words_input = text.strip().lower().split()
